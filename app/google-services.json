@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "808404509527",
+    "firebase_url": "https://test-test-9d01c.firebaseio.com",
+    "project_id": "test-test-9d01c",
+    "storage_bucket": "test-test-9d01c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808404509527:android:3b540d2213e3d11fa01412",
+        "android_client_info": {
+          "package_name": "c.epi.testing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808404509527-a37i3dnpji87g0ppq1acf1nic7ian0i0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb5qh1sxmGqoTzSgPY_bRsCVXLeLEFbhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808404509527-a37i3dnpji87g0ppq1acf1nic7ian0i0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
